@@ -1,0 +1,3 @@
+Thus is a sample file which we are creating using a Python Program.
+This file will be used through another program to process its Data.
+Thank you 
